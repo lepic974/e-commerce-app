@@ -5,7 +5,6 @@ import 'package:food_reunion_app/components/default_button.dart';
 import 'package:food_reunion_app/components/form_error.dart';
 import 'package:food_reunion_app/constants.dart';
 import 'package:food_reunion_app/screens/forgot_password/forgot_password_screen.dart';
-import 'package:food_reunion_app/screens/home/home_screen.dart';
 import 'package:food_reunion_app/screens/login_success/login_success_screen.dart';
 import 'package:food_reunion_app/size_config.dart';
 
